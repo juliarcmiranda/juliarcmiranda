@@ -1,15 +1,16 @@
-### Hey, I'm Julia! 👋🏻
-<img align="right" width="200em" height="200em" src="https://media.discordapp.net/attachments/696068902563741827/882447522713456680/Github.gif">
-<div>
-Passionate about learning, teaching, technology, engineering and art. I believe we can transform people's lives through education and art. After all, it is by learning that we become capable of improving our quality of life, when looking for solutions, and it's by teaching that we pass everything on, increasing the reach of this cloud of knowledge. On the other hand, <i>Art says the unspeakable, expresses the inexpressible, translates the untranslatable</i>, as Leonardo da Vinci said.
+<img height="200" width="100%" src="https://cdn.discordapp.com/attachments/696068902563741827/882458597756395520/galaxy-wallpaper-1a.jpg">
 
-Currently being a Junior Full-Stack Developer, looking for a opportunity in the technology area, as I recently made a career transition. Graduated in Civil Engineering, I got experience in the budget sector and in education. Regardless of the area we work in, I believe it's possible to solve many problems by developing more collaborative, inclusive environments and with a dose of creativity! ✨
+### Hey, I'm Julia! 👋🏻🌸
+<img align="right" width="150em" height="150em" src="https://media.discordapp.net/attachments/696068902563741827/882447522713456680/Github.gif">
+<div>
+<p>Passionate about learning, teaching, technology, engineering and art. I believe we can transform people's lives through education and art. After all, it is by learning that we become capable of improving our quality of life, when looking for solutions, and it's by teaching that we pass everything on, increasing the reach of this cloud of knowledge. On the other hand, <i>Art says the unspeakable, expresses the inexpressible, translates the untranslatable</i>, as Leonardo da Vinci said.</p>
+<p>Currently being a Junior Full-Stack Developer, looking for a opportunity in the technology area, as I recently made a career transition. Graduated in Civil Engineering, I got experience in the budget sector and in education. Regardless of the area we work in, I believe it's possible to solve many problems by developing more collaborative, inclusive environments and with a dose of creativity! ✨</p>
 </div>
 
 <div>
   <a href="https://github.com/juliarcmiranda">
-  <img width="430em" height="180em" src="https://github-readme-stats.vercel.app/api?username=juliarcmiranda&show_icons=true&theme=dracula&include_all_comitss=true&count_private=true"/>
-  <img width="430em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliarcmiranda&layout=compact&langs_count=15&theme=dracula"/>
+  <img width="420em" height="180em" src="https://github-readme-stats.vercel.app/api?username=juliarcmiranda&show_icons=true&theme=dracula&include_all_comitss=true&count_private=true"/>
+  <img width="420em" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliarcmiranda&layout=compact&langs_count=15&theme=dracula"/>
 </div>
   <br>
 <div>
