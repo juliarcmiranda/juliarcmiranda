@@ -1,8 +1,11 @@
 ### Hey, I'm Julia! 👋🏻🌸
 <img align="right" width="240em"  src="https://media.discordapp.net/attachments/696068902563741827/1091502099101143040/download20230305201720.png">
 <div>
-<p>Passionate about learning, teaching, technology, engineering and art. I believe we can transform people's lives through education and art. After all, it is by learning that we become capable of improving our quality of life, when looking for solutions, and it's by teaching that we pass everything on, increasing the reach of this cloud of knowledge. On the other hand, <i>Art says the unspeakable, expresses the inexpressible, translates the untranslatable</i>, as Leonardo da Vinci said.</p>
-<p>Currently being a Junior Data Analyst, looking for a opportunity in the technology area, as I recently made a career transition. Graduated in Civil Engineering, I got experience in the budget sector and in education. Regardless of the area we work in, I believe it's possible to solve many problems by developing more collaborative, inclusive environments and with a dose of creativity! ✨</p>
+<p>Dedicated learning enthusiast, passionate about technology, engineering and art. I firmly believe in the transformative capacity of education in people's lives. Learning enables us to improve our quality of life, encouraging us to seek innovative solutions, while the act of teaching expands the scope of this knowledge, generating a cloud of wisdom.
+
+Currently, I follow my path as a Junior Data Scientist, looking for opportunities that challenge me in the technological area. I have a degree in Civil Engineering and bring valuable experience in the budgeting and education sector. I'm currently expanding my academic horizons with a degree in Data Science.
+
+Regardless of the area in which we operate, I fervently believe in solving problems through the creation of collaborative, inclusive and, above all, creative environments. I'm always ready to embrace new challenges and contribute to a world where innovation and collaboration are the basis for progress. ✨</p>
 &nbsp; 
 </div>
 <div>
@@ -40,6 +43,3 @@
   <a href="mailto:juliarcmiranda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://open.spotify.com/user/xuliamiranda?si=mKmWLRWuQduMgz4QEHWpuA"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </div>
-
-##
-![Snake animation](https://github.com/juliarcmiranda/juliarcmiranda/blob/output/github-contribution-grid-snake.svg)
