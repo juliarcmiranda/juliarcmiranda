@@ -1,5 +1,5 @@
 ### Hey, I'm Julia! 👋🏻🌸
-<img align="right" width="240em"  src="https://media.discordapp.net/attachments/696068902563741827/1091502099101143040/download20230305201720.png">
+<img align="right" width="240em"  src="https://i.imgur.com/SXc7PXY.png">
 <div>
 <p>Dedicated learning enthusiast, passionate about technology, engineering and art. I firmly believe in the transformative capacity of education in people's lives. Learning enables us to improve our quality of life, encouraging us to seek innovative solutions, while the act of teaching expands the scope of this knowledge, generating a cloud of wisdom.
 
