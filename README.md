@@ -1,38 +1,34 @@
-### Hey, I'm Julia! 👋🏻🌸
+### Oi, sou a Julia! 👋🏻🌸
 <img align="right" width="240em"  src="https://i.imgur.com/SXc7PXY.png">
 <div>
-<p>Dedicated learning enthusiast, passionate about technology, engineering and art. I firmly believe in the transformative capacity of education in people's lives. Learning enables us to improve our quality of life, encouraging us to seek innovative solutions, while the act of teaching expands the scope of this knowledge, generating a cloud of wisdom.
+<p>Sou Analista de Dados, com foco em Business Intelligence, modelagem, administração de bases de dados e criação de relatórios/dashboards. Curso tecnólogo em Ciência de Dados, mas também possuo graduação em Engenharia Civil e experiência em gestão de dados, orçamentos e educação.
 
-Currently, I follow my path as a Junior Data Scientist, looking for opportunities that challenge me in the technological area. I have a degree in Civil Engineering and bring valuable experience in the budgeting and education sector. I'm currently expanding my academic horizons with a degree in Data Science.
+Meu primeiro contato com a área tecnológica foi no ciclo básico de Engenharia. Porém, foi apenas em 2021 que decidi realizar uma transição de carreira. Realizei projetos de Front-End e Back-End até que me apaixonei pela área de Dados e reingressei na faculdade para complementar meus conhecimentos. 
 
-Regardless of the area in which we operate, I fervently believe in solving problems through the creation of collaborative, inclusive and, above all, creative environments. I'm always ready to embrace new challenges and contribute to a world where innovation and collaboration are the basis for progress. ✨</p>
+Minhas principais habilidades incluem Power BI, SQL e Python, além de sólida base em modelagem de dados, ETL, estatística e métricas. Busco desafios que me permitam aplicar minhas habilidades técnicas e analíticas, contribuindo para decisões estratégicas e inovação baseada em dados.</p>
 &nbsp; 
 </div>
 <div>
 <a href="https://github.com/juliarcmiranda">
-<img width="420em" height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliarcmiranda&layout=compact&langs_count=15&theme=dracula"/>
+<img width="400em" height="180em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliarcmiranda&layout=compact&langs_count=15&theme=dracula"/>
 </div>
-  <br>
+
 <div><p>
-  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"/>
-  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"/>
-  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
-  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg"/>
-  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"/>
-  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"/></p>
-  <p><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"/>
-  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"/>
-  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"/>
-  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
-  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/></p>
-  
-  ##
-  
-  <h3>Currently studying 🌱</h3>
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"/>
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
   <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"/>
-</div>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-plain.svg"/>
+  </p>
+  <p>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg"/>
+  <p><img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg"/>
+  <img width="40" height="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+</p></div>
 
 ##
   
