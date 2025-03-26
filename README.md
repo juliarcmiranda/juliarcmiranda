@@ -1,7 +1,7 @@
 ### Hey, I'm Julia! 👋🏻🌸
 <img align="right" width="240em"  src="https://i.imgur.com/SXc7PXY.png">
 <div>
-<p>I'm a data science undergraduate with a focus on Business Intelligence, modeling, database administration, and reporting/dashboard creation. I also have a degree in Civil Engineering and experience in data management, budgeting, and education.
+<p>I'm a Data Science undergraduate with a focus on Business Intelligence, modeling, database administration, and reporting/dashboard creation. I also have a degree in Civil Engineering and experience in data management, budgeting, and education.
 
 It was during the basic engineering cycle that I had my first contact with the technology area. However, it was only in 2021 that I decided to make a career transition. I carried out Front-End and Back-End projects until I fell in love with the Data area and went back to college to complement my knowledge.
 
