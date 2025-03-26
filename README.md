@@ -1,11 +1,11 @@
-### Oi, sou a Julia! 👋🏻🌸
+### Hey, I'm Julia! 👋🏻🌸
 <img align="right" width="240em"  src="https://i.imgur.com/SXc7PXY.png">
 <div>
-<p>Sou Analista de Dados, com foco em Business Intelligence, modelagem, administração de bases de dados e criação de relatórios/dashboards. Curso tecnólogo em Ciência de Dados, mas também possuo graduação em Engenharia Civil e experiência em gestão de dados, orçamentos e educação.
+<p>I'm a data science undergraduate with a focus on Business Intelligence, modeling, database administration, and reporting/dashboard creation. I also have a degree in Civil Engineering and experience in data management, budgeting, and education.
 
-Meu primeiro contato com a área tecnológica foi no ciclo básico de Engenharia. Porém, foi apenas em 2021 que decidi realizar uma transição de carreira. Realizei projetos de Front-End e Back-End até que me apaixonei pela área de Dados e reingressei na faculdade para complementar meus conhecimentos. 
+It was during the basic engineering cycle that I had my first contact with the technology area. However, it was only in 2021 that I decided to make a career transition. I carried out Front-End and Back-End projects until I fell in love with the Data area and went back to college to complement my knowledge.
 
-Minhas principais habilidades incluem Power BI, SQL e Python, além de sólida base em modelagem de dados, ETL, estatística e métricas. Busco desafios que me permitam aplicar minhas habilidades técnicas e analíticas, contribuindo para decisões estratégicas e inovação baseada em dados.</p>
+My main skills include Power BI, SQL, and Python, as well as a solid foundation in data modeling, ETL, statistics, and metrics. I seek challenges that allow me to apply my technical and analytical skills, contributing to strategic decisions and data-driven innovation.</p>
 &nbsp; 
 </div>
 <div>
@@ -37,5 +37,4 @@ Minhas principais habilidades incluem Power BI, SQL e Python, além de sólida b
 <div>
   <a href="https://www.linkedin.com/in/juliarcmiranda/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:juliarcmiranda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://open.spotify.com/user/xuliamiranda?si=mKmWLRWuQduMgz4QEHWpuA"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 </div>
